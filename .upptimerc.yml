@@ -5,8 +5,10 @@ repo: n8n-cloud-status
 sites:
   - name: n8n.io
     url: https://www.n8n.io
+    assignees:
+      - BHesseldieck
   - name: Adminpanel-Backend
-    url: https://n8n-adminpanel-backend.azurewebsites.net/health
+    url: $ADMINPANEL_BE_HEALTH
     icon: https://n8n.io/favicon.ico
   - name: Adminpanel-Frontend
     url: https://app.n8n.cloud/login
@@ -22,21 +24,22 @@ sites:
 
 assignees: # Users to assign downtime issues
   - BHesseldieck
+  - ahsanv
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status.n8n.cloud
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /n8n-cloud-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://uploads-ssl.webflow.com/5fb23fba106ce3c8a0b50fdf/5fcfde2bb7d862dfe9f46aca_n8n-cloud-wordmark_beta_v2.svg
   favicon: https://n8n.io/favicon.ico
-  name: n8n status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: n8n.cloud status
+  introTitle: "**n8n.cloud** service monitoring."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: n8n.cloud
+      href: https://n8n.cloud
+    - title: n8n.io
+      href: https://n8n.io
