@@ -1,7 +1,7 @@
 url: https://n8n-adminpanel-backend.azurewebsites.net/health
 status: up
 code: 200
-responseTime: 1360
-lastUpdated: 2021-03-15T15:43:57.004Z
+responseTime: 424
+lastUpdated: 2021-03-15T15:55:16.317Z
 startTime: Mon Mar 15 2021 15:31:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
