@@ -12,6 +12,8 @@ sites:
   - name: n8n.cloud - Backend Services
     url: $ADMINPANEL_BE_HEALTH
     icon: https://n8n.io/favicon.ico
+  - name: n8n.cloud - Instance Cluster
+    url: $CLUSTER_HEALTH
   # - name: Broken Site
   #   url: https://thissitedoesnotexist.com
   # - name: Test for HEAD
