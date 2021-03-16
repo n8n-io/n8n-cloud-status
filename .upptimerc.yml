@@ -38,8 +38,8 @@ status-website:
   logoUrl: https://uploads-ssl.webflow.com/5fb23fba106ce3c8a0b50fdf/5fcfde2bb7d862dfe9f46aca_n8n-cloud-wordmark_beta_v2.svg
   favicon: https://n8n.io/favicon.ico
   name: Status
-  introTitle: "**n8n.cloud** service monitoring."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "**n8n.cloud** service monitoring"
+  introMessage: "Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard)."
   navbar:
     - title: n8n.cloud
       href: https://n8n.cloud
