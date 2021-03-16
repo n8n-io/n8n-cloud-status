@@ -7,11 +7,11 @@ sites:
     url: https://www.n8n.io
     assignees:
       - BHesseldieck
+  - name: n8n.cloud
+    url: https://app.n8n.cloud/login
   - name: n8n.cloud - Backend Services
     url: $ADMINPANEL_BE_HEALTH
     icon: https://n8n.io/favicon.ico
-  - name: n8n.cloud
-    url: https://app.n8n.cloud/login
   # - name: Broken Site
   #   url: https://thissitedoesnotexist.com
   # - name: Test for HEAD
