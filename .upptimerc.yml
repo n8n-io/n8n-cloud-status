@@ -33,12 +33,10 @@ status-website:
   baseUrl: /n8n-cloud-status
   logoUrl: https://uploads-ssl.webflow.com/5fb23fba106ce3c8a0b50fdf/5fcfde2bb7d862dfe9f46aca_n8n-cloud-wordmark_beta_v2.svg
   favicon: https://n8n.io/favicon.ico
-  # name: n8n.cloud status
+  name: Status
   introTitle: "**n8n.cloud** service monitoring."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
     - title: n8n.cloud
       href: https://n8n.cloud
     - title: n8n.io
