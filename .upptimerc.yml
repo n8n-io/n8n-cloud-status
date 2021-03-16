@@ -32,7 +32,6 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /n8n-cloud-status
   # themeUrl: https://n8n-io.github.io/n8n.css
-  themeUrl: https://n8n-io.github.io/n8n-cloud-status/themes/dark.css
   logoUrl: https://uploads-ssl.webflow.com/5fb23fba106ce3c8a0b50fdf/5fcfde2bb7d862dfe9f46aca_n8n-cloud-wordmark_beta_v2.svg
   favicon: https://n8n.io/favicon.ico
   name: Status
