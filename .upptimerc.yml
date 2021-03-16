@@ -7,10 +7,10 @@ sites:
     url: https://www.n8n.io
     assignees:
       - BHesseldieck
-  - name: Adminpanel-Backend
+  - name: n8n.cloud - Backend Services
     url: $ADMINPANEL_BE_HEALTH
     icon: https://n8n.io/favicon.ico
-  - name: Adminpanel-Frontend
+  - name: n8n.cloud
     url: https://app.n8n.cloud/login
   # - name: Broken Site
   #   url: https://thissitedoesnotexist.com
@@ -33,7 +33,7 @@ status-website:
   baseUrl: /n8n-cloud-status
   logoUrl: https://uploads-ssl.webflow.com/5fb23fba106ce3c8a0b50fdf/5fcfde2bb7d862dfe9f46aca_n8n-cloud-wordmark_beta_v2.svg
   favicon: https://n8n.io/favicon.ico
-  name: n8n.cloud status
+  # name: n8n.cloud status
   introTitle: "**n8n.cloud** service monitoring."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
