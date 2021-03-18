@@ -39,15 +39,9 @@ status-website:
   favicon: https://n8n.io/favicon.ico
   name: Status
   # introTitle: "**n8n.cloud** service monitoring"
-  # introMessage: "Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard)."
+  introMessage: "Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard)."
   navbar:
     - title: n8n.cloud
       href: https://n8n.cloud
     - title: n8n.io
       href: https://n8n.io
-
-i18n:
-  footer: "Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard).
-  \n
-  \n
-  This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
