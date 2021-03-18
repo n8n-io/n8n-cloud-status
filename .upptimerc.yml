@@ -48,7 +48,7 @@ status-website:
 
 i18n:
   footer: |+
-  "Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard).
+  Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard).
 
 
-  This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
+  This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
