@@ -37,6 +37,7 @@ status-website:
   themeUrl: https://n8n-io.github.io/n8n-cloud-status/assets/n8n.css
   logoUrl: https://n8n-io.github.io/n8n-cloud-status/assets/n8n-cloud-wordmark.png
   favicon: https://n8n.io/favicon.ico
+  css: ".logo.img { height: 1.5 rem }"
   name: Status
   # introTitle: "**n8n.cloud** service monitoring"
   introMessage: "Disclaimer: the Instance Cluster monitor shows the general health of the n8n.cloud cluster. To check the status of your individual instance please visit your [n8n.cloud dashboard](https://app.n8n.cloud/dashboard)."
