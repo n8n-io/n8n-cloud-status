@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/app.n8n.cloud",
     "slug": "n8n-cloud",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1545,
-    "timeDay": 738,
-    "timeWeek": 1013,
-    "timeMonth": 1545,
-    "timeYear": 1545,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 1529,
+    "timeDay": 957,
+    "timeWeek": 909,
+    "timeMonth": 1529,
+    "timeYear": 1529,
+    "dailyMinutesDown": {
+      "2021-03-23": 737,
+      "2021-03-22": 540
+    }
   },
   {
     "name": "n8n.cloud - Backend Services",
@@ -23,17 +26,20 @@
     "icon": "https://n8n.io/favicon.ico",
     "slug": "n8n-cloud-backend-services",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 456,
-    "timeWeek": 475,
-    "timeMonth": 858,
-    "timeYear": 858,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 851,
+    "timeDay": 606,
+    "timeWeek": 488,
+    "timeMonth": 851,
+    "timeYear": 851,
+    "dailyMinutesDown": {
+      "2021-03-23": 737,
+      "2021-03-22": 540
+    }
   },
   {
     "name": "n8n.cloud - Instance Cluster",
@@ -41,17 +47,20 @@
     "icon": "https://n8n.io/favicon.ico",
     "slug": "n8n-cloud-instance-cluster",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "93.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 339,
-    "timeWeek": 373,
-    "timeMonth": 365,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "93.35%",
+    "time": 369,
+    "timeDay": 470,
+    "timeWeek": 392,
+    "timeMonth": 369,
+    "timeYear": 369,
+    "dailyMinutesDown": {
+      "2021-03-23": 737,
+      "2021-03-22": 540
+    }
   },
   {
     "name": "n8n.io",
@@ -59,16 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/www.n8n.io",
     "slug": "n8n-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "93.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 787,
-    "timeWeek": 1062,
-    "timeMonth": 871,
-    "timeYear": 871,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "93.82%",
+    "time": 875,
+    "timeDay": 1029,
+    "timeWeek": 985,
+    "timeMonth": 875,
+    "timeYear": 875,
+    "dailyMinutesDown": {
+      "2021-03-23": 737,
+      "2021-03-22": 540
+    }
   }
 ]
