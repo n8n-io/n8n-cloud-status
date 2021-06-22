@@ -58,17 +58,17 @@
     "url": "https://www.n8n.io",
     "icon": "https://favicons.githubusercontent.com/www.n8n.io",
     "slug": "n8n-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 859,
-    "timeWeek": 992,
-    "timeMonth": 1080,
-    "timeYear": 980,
+    "time": 975,
+    "timeDay": 576,
+    "timeWeek": 905,
+    "timeMonth": 1056,
+    "timeYear": 975,
     "dailyMinutesDown": {}
   }
 ]
