@@ -40,7 +40,7 @@
     "url": "$CLUSTER_HEALTH",
     "icon": "https://n8n.io/favicon.ico",
     "slug": "n8n-cloud-instance-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
