@@ -1,7 +1,7 @@
 url: $CLUSTER_HEALTH
-status: down
-code: 503
-responseTime: 297
-lastUpdated: 2022-02-06T00:35:34.898Z
+status: up
+code: 200
+responseTime: 572
+lastUpdated: 2022-02-06T01:26:34.089Z
 startTime: Tue Mar 16 2021 15:48:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
