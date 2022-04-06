@@ -1,7 +1,7 @@
 url: $ADMINPANEL_BE_HEALTH
 status: up
 code: 200
-responseTime: 405
-lastUpdated: 2022-04-05T23:04:52.082Z
+responseTime: 420
+lastUpdated: 2022-04-06T23:04:44.542Z
 startTime: Tue Mar 16 2021 11:41:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
