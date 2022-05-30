@@ -22,7 +22,7 @@
     "url": "$ADMINPANEL_BE_HEALTH",
     "icon": "https://n8n.io/favicon.ico",
     "slug": "n8n-cloud-backend-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
