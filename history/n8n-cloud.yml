@@ -1,7 +1,7 @@
 url: https://app.n8n.cloud/login
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2022-06-20T23:04:34.341Z
+status: down
+code: 530
+responseTime: 9086
+lastUpdated: 2022-06-21T06:48:14.139Z
 startTime: Tue Mar 16 2021 11:42:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
